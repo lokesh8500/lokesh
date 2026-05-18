@@ -1,1 +1,2 @@
-console.log("hello");
+console.log(" LOKESH ");
+alert("JS is running!");
